@@ -24,6 +24,13 @@ export const metadata: Metadata = {
   },
   description:
     "Compatibility scores, who loves who more, red flags, and full relationship roasts — entertainment only.",
+  icons: {
+    icon: [
+      { url: "/icon.png", type: "image/png" },
+      { url: "/icon.svg", type: "image/svg+xml" },
+    ],
+    apple: [{ url: "/apple-icon.png", type: "image/png" }],
+  },
   openGraph: {
     title: "LoveRoast — We test your love. Then we roast it. 😂❤️",
     description:
