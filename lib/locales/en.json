@@ -1,0 +1,602 @@
+{
+  "common": {
+    "appName": "LoveRoast",
+    "tagline": "We test your love. Then we roast it into ashes 😂❤️",
+    "developerName": "Aung Paing Soe",
+    "developerUrl": "https://www.aungpaingsoe.dev",
+    "githubUrl": "https://github.com/aungpaingsoedev/love-roast",
+    "developedBy": "Built by",
+    "entertainmentDisclaimer": "For entertainment only — zero scientific credibility 💀",
+    "shortDisclaimer": "Just for laughs. Our math doesn't even have a diploma 💀",
+    "tryAgain": "🔥 Try again",
+    "moreChaos": "Find more chaos",
+    "back": "Back",
+    "startTest": "🔥 Start the test",
+    "startChaos": "Let's go →",
+    "chaos": "Chaos",
+    "demoResult": "Sample result",
+    "tipUrl": "https://www.aungpaingsoe.dev",
+    "kpayPhone": "09960187283",
+    "kpayName": "Aung Paing Soe"
+  },
+  "nav": {
+    "tests": "Tests",
+    "popular": "🔥 Popular",
+    "roasts": "😂 Roasts",
+    "howItWorks": "How it works",
+    "tip": "☕ Coffee"
+  },
+  "hero": {
+    "titleLine1": "We test your love.",
+    "titleLine2": "Then we roast it. 😂",
+    "subtitle": "Compatible… or just two problems dating each other? 💀",
+    "ctaTest": "🔥 Test our love",
+    "ctaRoast": "😂 Roast us",
+    "disclaimer": "Just for fun — our algorithm hasn't finished high school 💀"
+  },
+  "sections": {
+    "popularTitle": "🔥 Most popular chaos",
+    "popularSubtitle": "The tests people screenshot first.",
+    "allTestsTitle": "Pick your chaos 😈",
+    "allTestsSubtitle": "Choose one. Then blame the algorithm.",
+    "howItWorksTitle": "How does it work?",
+    "howStep1Title": "Enter two names",
+    "howStep1Desc": "Your name and theirs. Relationship status is optional — skip it if you're scared of drama.",
+    "howStep2Title": "Scientifically suspicious scan",
+    "howStep2Desc": "We let our untrustworthy algorithm do its thing.",
+    "howStep3Title": "Get roasted and share",
+    "howStep3Desc": "Screenshot it, drop it in the group chat, and roast each other a little.",
+    "trendingTitle": "Currently trending results",
+    "trendingSubtitle": "Sample cards only — do not take these seriously.",
+    "whyTitle": "Why do people love LoveRoast?",
+    "why1Title": "Built to share",
+    "why1Desc": "Gorgeous 9:16 cards made for Stories.",
+    "why2Title": "Actually funny",
+    "why2Desc": "Spicy roasts. Zero boring spreadsheets.",
+    "why3Title": "Chaos in seconds",
+    "why3Desc": "Add names, get roasted — a viral format friends will want to try.",
+    "faqTitle": "Frequently asked questions",
+    "finalCtaTitle": "Ready to get fully roasted?",
+    "finalCtaSubtitle": "Enter two names. Survive the loading screen. Share the evidence.",
+    "finalCtaButton": "🚨 Find the problem"
+  },
+  "form": {
+    "yourNameLabel": "Your name",
+    "yourNamePlaceholder": "English letters only — e.g. Aung",
+    "theirNameLabel": "Their name",
+    "theirNamePlaceholder": "English letters only — e.g. Su Su",
+    "statusLabel": "Relationship status (optional)",
+    "statusPlaceholder": "Pick a status...",
+    "yourZodiacLabel": "Your zodiac (optional)",
+    "yourZodiacPlaceholder": "Skip if you don't care",
+    "theirZodiacLabel": "Their zodiac (optional)",
+    "theirZodiacPlaceholder": "Skip if you're scared of drama",
+    "yourZodiacRequiredLabel": "Your zodiac",
+    "yourZodiacRequiredPlaceholder": "Pick a sign",
+    "theirZodiacRequiredLabel": "Their zodiac",
+    "theirZodiacRequiredPlaceholder": "Pick their sign",
+    "submitButton": "🔥 Start the test",
+    "challengeSubmitButton": "💀 Test me"
+  },
+  "validation": {
+    "yourNameRequired": "Enter your name first. The algorithm is already nosy 👀",
+    "yourNameTooLong": "That name is way too long. No room left to roast 💀",
+    "yourNameEnglishOnly": "English letters only — e.g. Aung, Su Su 👀",
+    "theirNameRequired": "Their name is required too. You're not dating a ghost… right? 👻",
+    "theirNameTooLong": "That name is basically a novel… shorten it a bit ✂️",
+    "theirNameEnglishOnly": "English letters only — e.g. Aung, Su Su 👀",
+    "zodiacRequired": "Pick a zodiac — the stars are waiting ♈"
+  },
+  "relationshipStatuses": {
+    "crush": "Crushing hard 😍",
+    "talking": "Just talking 💬",
+    "dating": "Officially dating ❤️",
+    "best-friends": "Best friends 🤝",
+    "complicated": "It's complicated 🌀",
+    "married": "Married 💍",
+    "unknown": "Honestly no idea anymore 💀"
+  },
+  "zodiacSigns": {
+    "aries": "♈ Aries",
+    "taurus": "♉ Taurus",
+    "gemini": "♊ Gemini",
+    "cancer": "♋ Cancer",
+    "leo": "♌ Leo",
+    "virgo": "♍ Virgo",
+    "libra": "♎ Libra",
+    "scorpio": "♏ Scorpio",
+    "sagittarius": "♐ Sagittarius",
+    "capricorn": "♑ Capricorn",
+    "aquarius": "♒ Aquarius",
+    "pisces": "♓ Pisces"
+  },
+  "loading": {
+    "badge": "Fake AI Scan",
+    "progressLabel": "Scan progress",
+    "disclaimer": "Our algorithm is extremely suspicious. Hang tight 💀",
+    "messages": [
+      "🔍 Scanning your love...",
+      "Hunting for texting patterns...",
+      "Finding who replies with just 'K.'...",
+      "Measuring jealousy levels...",
+      "Checking suspicious Instagram activity...",
+      "Calculating emotional damage...",
+      "Consulting the Relationship Algorithm elders...",
+      "Doing highly unscientific math...",
+      "⚠️ Severe problem detected"
+    ]
+  },
+  "redFlags": {
+    "prompt": "Answer honestly. Or don't — you're getting roasted either way.",
+    "detectButton": "🚩 Find our red flags",
+    "unansweredWarning": "Answer every question. Red flags hate waiting.",
+    "yourFlagsTitle": "Your red flags",
+    "theirFlagsTitle": "Their red flags",
+    "scoreLabel": "Red flag score",
+    "verdict": "Congrats… you're both the red flag. One holds it, the other waves it 🚩❤️",
+    "questions": [
+      {
+        "id": "reply",
+        "question": "Who takes longer to reply?",
+        "options": {
+          "me": "Me",
+          "them": "Them",
+          "both": "Both of us pretend to be busy"
+        }
+      },
+      {
+        "id": "jealous",
+        "question": "Who gets jealous first?",
+        "options": {
+          "me": "Me",
+          "them": "Them",
+          "both": "We're tied"
+        }
+      },
+      {
+        "id": "fine",
+        "question": "Who says 'I'm fine' when they clearly aren't?",
+        "options": {
+          "me": "Me",
+          "them": "Them",
+          "both": "Both of us. Every day."
+        }
+      },
+      {
+        "id": "lastseen",
+        "question": "Who checks the other's Last Seen / Active Now?",
+        "options": {
+          "me": "Me",
+          "them": "Them",
+          "both": "Both of us spy in silence"
+        }
+      },
+      {
+        "id": "tiny",
+        "question": "Who starts fights over tiny things?",
+        "options": {
+          "me": "Me",
+          "them": "Them",
+          "both": "The universe starts them for us"
+        }
+      },
+      {
+        "id": "sorry",
+        "question": "Who apologizes first?",
+        "options": {
+          "me": "Me",
+          "them": "Them",
+          "neither": "Pride always wins (nobody apologizes)"
+        }
+      },
+      {
+        "id": "whatever",
+        "question": "Who says 'do whatever' when they definitely don't mean it?",
+        "options": {
+          "me": "Me",
+          "them": "Them",
+          "both": "That's our love language"
+        }
+      }
+    ]
+  },
+  "result": {
+    "overallCompatibility": "Overall compatibility",
+    "loveBattle": "❤️ Love battle",
+    "warning": "🚨 Warning",
+    "severeProblem": "⚠️ Severe problem detected",
+    "theProblemIs": "🚨 The problem is...",
+    "jealousyBattle": "👀 Jealousy battle",
+    "textingPrediction": "📱 Texting prediction",
+    "marriageAnalysis": "💍 Marriage analysis",
+    "marriageProb": "Marriage probability",
+    "weddingProb": "Wedding probability",
+    "furnitureArg": "Furniture shopping fight chance",
+    "foodArg": "What-to-eat fight chance",
+    "divorceProb": "Divorce probability",
+    "recommendedAction": "Recommended action",
+    "marriageDisclaimer": "Not real astrology. Don't yell at your parents over this result. 💀",
+    "breakupSimulator": "💔 Breakup simulator",
+    "breakupReason": "Predicted breakup reason",
+    "survivalProb": "Relationship survival chance",
+    "zodiacCheckTitle": "♈ Zodiac check",
+    "zodiacCompatibility": "Zodiac compatibility",
+    "fullRoast": "🔥 FULL ROAST",
+    "shareTitle": "📸 SHARE the result",
+    "shareCardTagline": "We test your love. Then we roast it.",
+    "shareBtn": "Share",
+    "copyBtn": "Copy link",
+    "downloadBtn": "Download image",
+    "challengeBtn": "👀 Challenge them",
+    "peopleAlso": "People also tried",
+    "resultMissing": "Result not found",
+    "resultMissingDesc": "Oops... even the algorithm got confused. Try again 💀",
+    "startNewTest": "🔥 Start a new test",
+    "shareStatus": {
+      "shared": "Shared! Now go show them 💀",
+      "copied": "Link copied! Drop it in chat ASAP 📸",
+      "failed": "Oops... even the algorithm got confused. Try again 💀",
+      "clipboardFailed": "Clipboard said no. Just take a screenshot 📱",
+      "downloadSuccess": "Image saved! Ready for your Story 📸",
+      "downloadFailed": "Couldn't export the image. Screenshot and share 💀",
+      "challengeCopied": "Challenge link copied! Send it to them 👀"
+    }
+  },
+  "challenge": {
+    "header": "Someone wants to test your love",
+    "description": " challenged you to take a LoveRoast test.",
+    "acceptButton": "Accept the challenge",
+    "enterPrompt": "Type your name. We already know who challenged you.",
+    "testedBannerTitle": "💀 You've been tested",
+    "testedBannerDesc": "The important part... you're both doing this nonsense together ❤️",
+    "expiredTitle": "Challenge expired",
+    "expiredDesc": "Oops... even the algorithm got confused. Try again 💀",
+    "goHome": "Go home"
+  },
+  "tip": {
+    "badge": "Support",
+    "title": "☕ Buy the developer a coffee",
+    "description": "LoveRoast is free. If you laughed, tip Aung Paing Soe with KBZPay.",
+    "compact_label": "☕ Buy coffee",
+    "show_qr": "Show QR",
+    "close_qr": "Close",
+    "scan_title": "Scan with KBZPay",
+    "scan_hint": "Open KBZPay → Scan → Enter amount",
+    "cta": "Copy number",
+    "copy_phone": "Copy",
+    "copied_phone": "Number copied ✓",
+    "copied_amount": "Copied ✓",
+    "thanks": "Thank you ❤️",
+    "note": "Totally optional · Always appreciated",
+    "phone_label": "KBZPay number",
+    "amount_label": "Amount to send",
+    "no_phone": "Add a KPay number in common.kpayPhone",
+    "pick_amount": "Pick an amount",
+    "recipient": "KPay number",
+    "howto": "Confirm in KBZPay",
+    "amounts": [
+      {
+        "id": "mmk-3000",
+        "label": "☕ Coffee",
+        "hint": "3,000 MMK",
+        "value": 3000
+      },
+      {
+        "id": "mmk-5000",
+        "label": "🧋 Boba",
+        "hint": "5,000 MMK",
+        "value": 5000
+      },
+      {
+        "id": "mmk-10000",
+        "label": "💀 Chaos",
+        "hint": "10,000 MMK",
+        "value": 10000
+      }
+    ]
+  },
+  "footer": {
+    "about": "We test your love. Then we roast it. Entertainment only — not science.",
+    "explore": "Explore",
+    "allTests": "All tests",
+    "whoIsProblem": "Who's the problem?",
+    "fullRoast": "Full Roast room",
+    "disclaimerTitle": "Disclaimer",
+    "disclaimerText": "For fun only. Not dating advice, not astrology, not medical advice. If you break up over a French fry score, that's on you 💀",
+    "copyright": "For entertainment only",
+    "developerCredit": "Made with ❤️ by",
+    "github": "GitHub"
+  },
+  "faq": [
+    {
+      "q": "Is LoveRoast scientifically accurate?",
+      "a": "Absolutely not. Our algorithm has no degree — it runs on jokes 💀"
+    },
+    {
+      "q": "Can I treat this as real relationship advice?",
+      "a": "Please don't. Talk to each other (or a therapist). We just roast."
+    },
+    {
+      "q": "Why did I get roasted this hard?",
+      "a": "Because you showed up. Names decide destiny. Same names, same roast."
+    },
+    {
+      "q": "Do you save my results?",
+      "a": "Results live as shareable links on your device. No account needed."
+    }
+  ],
+  "trendingList": [
+    {
+      "pair": "Aung Aung & Su Su",
+      "result": "94% compatible 😂",
+      "note": "Sample result"
+    },
+    {
+      "pair": "Kyaw Kyaw & Hnin Hnin",
+      "result": "87% red flag score 🚩",
+      "note": "Sample result"
+    },
+    {
+      "pair": "Min Min & Phyu Phyu",
+      "result": "99% food compatibility 🍜",
+      "note": "Sample result"
+    },
+    {
+      "pair": "Zeya & Myat Noe",
+      "result": "Problem: Zeya (81%) 🚨",
+      "note": "Sample result"
+    }
+  ],
+  "tests": {
+    "love-calculator": {
+      "title": "Love Calculator",
+      "description": "Meaningless percentages — that somehow feel true"
+    },
+    "who-loves-who": {
+      "title": "Who loves who more?",
+      "description": "A love battle. Someone's getting hurt."
+    },
+    "who-is-the-problem": {
+      "title": "Who's the problem?",
+      "description": "We scan. We decide. We name names."
+    },
+    "red-flags": {
+      "title": "Red Flag Detector",
+      "description": "Collect red flags like Pokémon."
+    },
+    "jealousy": {
+      "title": "Who's more jealous?",
+      "description": "Following lists. Last Seen. For detectives only."
+    },
+    "roast": {
+      "title": "Relationship Roast",
+      "description": "Full roast. Bring tissues."
+    },
+    "marriage": {
+      "title": "Marriage probability",
+      "description": "Wedding odds vs furniture-shopping fight odds."
+    },
+    "delusional": {
+      "title": "Who's more delusional?",
+      "description": "Main character energy. Reality disagrees."
+    },
+    "breakup": {
+      "title": "Breakup Simulator",
+      "description": "Imaginary chaos only. Don't actually break up."
+    },
+    "zodiac-check": {
+      "title": "Zodiac Check",
+      "description": "Two signs. One vibe."
+    }
+  },
+  "zodiacData": {
+    "elements": {
+      "fire": "🔥 Fire",
+      "earth": "🌿 Earth",
+      "air": "💨 Air",
+      "water": "🌊 Water"
+    },
+    "categories": {
+      "chemistry": "Star chemistry",
+      "drama": "Zodiac drama",
+      "texting": "Texting compatibility",
+      "forever": "Forever potential"
+    },
+    "vibes": [
+      {
+        "minScore": 85,
+        "title": "Written in the stars (allegedly)"
+      },
+      {
+        "minScore": 70,
+        "title": "Cute chaos — shockingly compatible"
+      },
+      {
+        "minScore": 55,
+        "title": "Situationship energy (cosmic edition)"
+      },
+      {
+        "minScore": 40,
+        "title": "Astrology says maybe… group chat says absolutely not"
+      },
+      {
+        "minScore": 0,
+        "title": "The stars are throwing a red flag party 🚩"
+      }
+    ],
+    "roasts": [
+      "{you} ({yourSign}) and {them} ({theirSign}) scored {score}% — even the planets are stressed.",
+      "{yourSign} × {theirSign} is {score}% compatible. Screenshot before Mercury goes feral.",
+      "The stars gave {you} & {them} {score}%. Not science. Extremely shareable though ♈"
+    ]
+  },
+  "roastData": {
+    "categories": {
+      "romance": "Romance",
+      "humor": "Humor / Chaos",
+      "communication": "Communication",
+      "fighting": "Fighting / Silent treatment",
+      "jealousy": "Jealousy",
+      "spending": "Spending habits",
+      "food": "Food compatibility"
+    },
+    "loveVerdicts": [
+      {
+        "minScore": 95,
+        "title": "💍 Just get married already",
+        "body": "Even the algorithm gave up trying to break you up. Go pay for the engagement party."
+      },
+      {
+        "minScore": 80,
+        "title": "🔥 Chemistry is unhinged",
+        "body": "Your friends have heard about you so much their ears are tired."
+      },
+      {
+        "minScore": 60,
+        "title": "😏 Not bad… but",
+        "body": "There's potential. There's also a lot of suspicious behavior."
+      },
+      {
+        "minScore": 40,
+        "title": "🤨 Situationship vibes",
+        "body": "Nobody knows what you are. Including you."
+      },
+      {
+        "minScore": 20,
+        "title": "🚩 Run… but make it romantic",
+        "body": "Red flags stacked on red flags. Praying you escape alive."
+      },
+      {
+        "minScore": 0,
+        "title": "💀 Just be friends",
+        "body": "Your Wi-Fi has a better connection than you two."
+      }
+    ],
+    "loveBattle": {
+      "warning": "{winner} is winning by {margin}%.",
+      "cta": "Hey {loser}… try a little harder 💀"
+    },
+    "problemRoasts": [
+      "Sorry… we double-checked.",
+      "The evidence is painfully solid.",
+      "The algorithm tried to defend you… it failed.",
+      "We recommend apologizing immediately.",
+      "You owe reparations for the emotional damage.",
+      "Even ChatGPT won't take your side.",
+      "The group chat knew from day one."
+    ],
+    "yourFlagPool": [
+      "Replies with a single 'K' like it's a war crime.",
+      "Says 'I'm fine' while writing a novel in Notes.",
+      "Checks Last Seen more than the weather.",
+      "Starts fights over one texting tone.",
+      "Always screenshots chats 'just in case.'",
+      "Says 'do whatever' knowing full well it's a trap."
+    ],
+    "theirFlagPool": [
+      "Goes missing for 4 hours then says 'just saw this.'",
+      "Likes 2019 posts like that's normal behavior.",
+      "Gets jealous of your cousins' comments.",
+      "Drops 'lol' while you're being serious.",
+      "Leaves you on Delivered every lunch break.",
+      "Says 'I'm not jealous' while tracking your location."
+    ],
+    "jealousyVerdicts": [
+      "Did you check their Following list? We know.",
+      "You zoomed in on that Story reply. Confess.",
+      "Stalking their Spotify is not a job.",
+      "You're both too free… get a hobby."
+    ],
+    "replyPredictions": [
+      {
+        "prediction": "Nobody replies.",
+        "detail": "Both of you are waiting out of pride for the other to text first 💀"
+      },
+      {
+        "prediction": "They'll reply within 7 minutes.",
+        "detail": "After staring at the keyboard for 6 minutes 59 seconds."
+      },
+      {
+        "prediction": "They saw your message 43 minutes ago.",
+        "detail": "Still crafting the perfect 'yeah haha' reply."
+      },
+      {
+        "prediction": "They're… typing in their head.",
+        "detail": "No typing bubble. Just vibes. Emotional damage incoming."
+      },
+      {
+        "prediction": "Both phones are being ignored...",
+        "detail": "Silent on both sides. Peak situationship energy."
+      },
+      {
+        "prediction": "You'll reply first.",
+        "detail": "As usual… the group chat is taking notes."
+      }
+    ],
+    "marriageRecs": [
+      "Think about it again 😂",
+      "Elope or go to therapy.",
+      "Match your contact names first.",
+      "Come back when you can decide what to eat peacefully.",
+      "The algorithm takes no responsibility. 💀"
+    ],
+    "foodScenarios": [
+      {
+        "scenario": "🍜 Who gets the last French fry?",
+        "yourLines": [
+          "I paid for this!",
+          "I saw it first!",
+          "I share with strangers… not them."
+        ],
+        "theirLines": [
+          "Skill issue.",
+          "Finder's keepers.",
+          "That fry is my emotional support snack."
+        ]
+      },
+      {
+        "scenario": "🍕 Who picks the pizza toppings?",
+        "yourLines": [
+          "Pineapple is mandatory.",
+          "I have taste.",
+          "Democracy is dead."
+        ],
+        "theirLines": [
+          "Absolutely not.",
+          "Trust my picks.",
+          "Your topping is a crime."
+        ]
+      },
+      {
+        "scenario": "🧋 Who steals the better bubble tea?",
+        "yourLines": [
+          "That's mine!",
+          "I ordered first!",
+          "Betrayal tastes like mango."
+        ],
+        "theirLines": [
+          "Oops, wrong straw.",
+          "No refunds.",
+          "Love is war."
+        ]
+      }
+    ],
+    "delusionVerdicts": [
+      "At least the confidence is maxed out.",
+      "You're both delusional together… impressive.",
+      "Reality is calling… nobody's picking up.",
+      "Main character energy, side character results."
+    ],
+    "breakupReasons": [
+      "Replied 'K' instead of 'okay ❤️'.",
+      "Unjustly stole the last French fry.",
+      "Replied with just a 👍.",
+      "Liked a suspicious 2019 post.",
+      "Took 4 hours to reply.",
+      "Couldn't decide what to eat and everything spiraled.",
+      "Used the wrong emoji energy.",
+      "Joked 'we need to talk' and it became real."
+    ],
+    "breakupDisclaimer": "100% imaginary. Do not actually break up over this. 💀"
+  }
+}
