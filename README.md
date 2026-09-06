@@ -2,8 +2,7 @@
 
 **မင်းတို့အချစ်ကို စမ်းမယ်။ ပြီးရင် အသေ Roast လုပ်မယ် 😂❤️**
 
-Relationship ကို “စမ်းသပ်” ပြီး Screenshot ရိုက်ချင်စရာ Roast ထုတ်ပေးတဲ့ ဖျော်ဖြေရေး Web App။  
-သိပ္ပံမဟုတ်ပါ — ရယ်ဖို့ပဲ။ Algorithm က ဆယ်တန်းတောင် မအောင်သေးဘူး 💀
+Relationship ကို “စမ်းသပ်” ပြီး Screenshot ရိုက်ချင်စရာ Roast ထုတ်ပေးတဲ့ ဖျော်ဖြေရေး Web App။ ။ အပျော်သဘောပါ။ Algorithm က ဆယ်တန်းတောင် မအောင်သေးဘူး 💀
 
 [![Next.js](https://img.shields.io/badge/Next.js-16-black)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)](https://www.typescriptlang.org/)
@@ -36,8 +35,6 @@ Relationship ကို “စမ်းသပ်” ပြီး Screenshot ရ�
 | **Description** | မင်းတို့အချစ်ကို စမ်းမယ်။ ပြီးရင် Roast လုပ်မယ် 😂❤️ — Myanmar & English relationship roast web app (entertainment only) |
 | **Topics / tags** | `nextjs`, `myanmar`, `love-calculator`, `roast`, `entertainment`, `typescript`, `tailwind` |
 | **Website** | (deploy လုပ်ရင် URL ထည့်ပါ) |
-
-> Repo က အရင်က `aungpaingsoedev/love-roast` — နာမည်ကောင်းပြီး မှတ်ရလွယ်ပါတယ်။ မပြောင်းလည်း ရပါတယ်။
 
 ---
 
